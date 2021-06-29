@@ -1,1 +1,1 @@
-# MusicGen
+MusicGen is a Deeplearning algorithm, thats trained to create new Music tune after getting a few initial notes as an input. This model is trained using musical lyrics of Franz Schubert. In this problem I attempted imitate his work by completing one of his songs "The Unfinished Symphony" which he composed half way and could not complete it due to his sudden death.
